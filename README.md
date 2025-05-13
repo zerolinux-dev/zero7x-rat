@@ -1,5 +1,7 @@
 # Zero7x RAT - Shadow Edition
 
+![Logo](https://i.postimg.cc/0j0Zcx13/zero7xrat.jpg)
+
 ![Logo](https://i.postimg.cc/J7JsX9Ym/Picsart-25-05-09-01-22-54-758.png)
 
 > **Version:** 1.0  
