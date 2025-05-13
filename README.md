@@ -2,7 +2,6 @@
 
 ![Logo](https://i.postimg.cc/02qsrryj/file-00000000c08461f9a97c12c79c4de566.png)
 
-![Logo](https://i.postimg.cc/qMrP4Y1C/file-000000005c0462468a6227881b67c624-1.png)
 
 > **Version:** 1.0  
 > **Platform:** Arch Linux (also works with Termux and Linux variants)  
@@ -49,7 +48,7 @@ This tool is your dark gate to offensive cyber power – a pure Arch Linux weapo
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/zero7x-rat.git
+git clone https://github.com/zerolinux-dev/zero7x-rat.git
 cd zero7x-rat
 python zero7x.py
 ```
