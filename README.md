@@ -1,6 +1,6 @@
 # Zero7x RAT - Shadow Edition
 
-![Logo](https://i.postimg.cc/0j0Zcx13/zero7xrat.jpg)
+![Logo](https://i.postimg.cc/J7JsX9Ym/Picsart-25-05-09-01-22-54-758.png)
 
 > **Version:** 1.0  
 > **Platform:** Arch Linux (also works with Termux and Linux variants)  
@@ -47,7 +47,7 @@ This tool is your dark gate to offensive cyber power – a pure Arch Linux weapo
 ## ⚙️ Installation
 
 ```bash
-git clone (https://github.com/zerolinux-dev/zero7x-rat.git)
+git clone https://github.com/yourusername/zero7x-rat.git
 cd zero7x-rat
 python zero7x.py
 ```
