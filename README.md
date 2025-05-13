@@ -1,8 +1,8 @@
 # Zero7x RAT - Shadow Edition
 
-![Logo](https://chatgpt.com/s/m_6822fdce4df881919ce47d12815ea541)
+![Logo](https://i.postimg.cc/02qsrryj/file-00000000c08461f9a97c12c79c4de566.png)
 
-![Logo](https://i.postimg.cc/0j0Zcx13/zero7xrat.jpg)
+![Logo](https://i.postimg.cc/qMrP4Y1C/file-000000005c0462468a6227881b67c624-1.png)
 
 > **Version:** 1.0  
 > **Platform:** Arch Linux (also works with Termux and Linux variants)  
