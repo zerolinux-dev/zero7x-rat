@@ -47,7 +47,7 @@ This tool is your dark gate to offensive cyber power – a pure Arch Linux weapo
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/zero7x-rat.git
+git clone (https://github.com/zerolinux-dev/zero7x-rat.git)
 cd zero7x-rat
 python zero7x.py
 ```
